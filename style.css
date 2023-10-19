@@ -1,0 +1,131 @@
+.body {
+    background-color: #FFFFFF;
+    color: #5D5A88;
+}
+.header {
+    background-color: #F9F9FF;
+}
+.header__link {
+    color: #5D5A88;
+}
+.header__link:hover {
+    color: #1500FF;   
+}
+.header__link:active{
+    color: #000;
+}
+.hero__title {
+    color: #5D5A88;
+}
+.hero__text {
+    color: #9795B5;
+}
+.button__primari_size-s {
+    background-color: #5D5A88;
+    color: #FFFFFF;
+}
+.button__primari_size-s:hover {
+    background-color: #5F5C7F;
+}
+.button__primari_size-s:active {
+    background-color: #A4A2C4;
+}
+.button__sacondary_size-s {
+    background-color: #FFF;
+    color: #5D5A88;
+    border:1.5px solid #5D5A88;  
+}
+.button__sacondary_size-s:hover {
+    background-color: #F6F5FF;
+}
+.button__sacondary_size-s:active {
+    background-color: #EFEEFB;
+}
+.clients {
+    background-color: #F9F9FF;
+}
+.clients__titel {
+    color: #1E285F;
+}
+.clients__text {
+    color: #9795B5;
+}
+.numbers__main-titel {
+    color: #5D5A88;
+}
+.numbers__text {
+    color: #5D5A88;
+}
+.numbers__title-h3 {
+    color: #5D5A88;
+}
+.get-started {
+    background-color: #F2F1FA;
+}
+.get-started__titel {
+    color: #5D5A88;
+}
+.get-started__text {
+    color: #9795B5;
+}
+.button__primari_size-m {
+    background-color: #5D5A88;
+    color: #FFFFFF;
+}
+.button__primari_size-m:hover {
+    background-color: #5F5C7F;
+}
+.button__primari_size-m:active {
+    background-color: #A4A2C4;  
+}
+.button__sacondary_size-m {
+    background-color: #FFF;
+    color: #5D5A88;
+    border:1.5px solid #5D5A88;  
+}
+.button__sacondary_size-m:hover {
+    background-color: #F6F5FF;
+}
+.button__sacondary_size-m:active {
+    background-color: #EFEEFB;  
+}
+.table {
+    background-color: #FFF;
+    border-color: #DDDFE1;
+}
+.table__thead,
+.table__tfoot {
+    color: #464A53;
+}
+.table__tbody {
+    color: #6A707E;
+}
+.table__tbody .table__data-2,
+.table__tbody .table__data-5 {
+    color: #ABAFB3;  
+}
+.table__tbody .table__row-1,
+.table__tbody .table__row-3 {
+    background-color: #FAFAFA;
+}
+.table__tfoot .table__row-foot {
+    background-color: #FAFAFA;
+}
+.video__text {
+    color: #9795B5;
+}
+.content-cards__text {
+    color: #9795B5;
+}
+.content-cards__item_xl {
+    background-color: #F2F1FA;
+}
+.content-cards__link {
+    color: #8D8BA7;
+}
+.content-cards__item {
+    background-color: #F2F1FA;
+}
+.footer {
+    color: #9795B5;
+}
